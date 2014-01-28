@@ -1,0 +1,90 @@
+* Graduated IHCC May 2004 (photo of me with ihcc award)
+* Work History
+** Principal Financial Group
+*** Positions
+**** IT Applications Associate
+**** IT Applications Associate - Lead
+*** Technologies
+**** COBOL
+**** CICS
+**** JCL
+**** VB 6
+**** Java
+**** XSLT
+**** XML
+**** HTML
+**** JavaScript
+**** DB2
+** IMT Computer Services
+*** Positions
+**** Sr. Programmer / Analyst at IMT
+**** Systems Analyst at IMT
+**** IT Manager at 
+
+*** Info
+**** 422 Customers
+***** Mostly Midwest, Texas, California, North Carolina
+**** 26 Employees
+***** Development (8)
+***** Legacy Support (7)
+***** Marketing & Support (11)
+*** Full benefits
+*** Medical
+*** Dental
+*** Vision
+*** 401k Match
+*** Cash bonuses
+*** Time-and-a-half
+*** Languages
+**** Bash
+**** C#
+**** CoffeeScript
+**** CSS
+**** HTML
+**** JavaScript
+**** Less
+**** Node.js
+**** PC Cobol
+**** Python
+**** Regular Expressions
+**** Ruby
+**** SQL
+**** XML
+**** XSLT
+**** Yaml
+**** Zsh
+*** Frameworks
+**** Bootstrap
+**** Celery
+**** Django
+**** Django REST Framework
+**** Ember.js
+**** Flask
+**** Handlebars
+**** jQuery
+*** Databases
+**** PostgreSQL
+**** Memcached
+**** MySQL
+**** MongoDB
+**** Sqlite
+** Developer Setup
+*** Macbook Pro 13" Retena
+*** Standing Desks / Herman Miller Aeron Petistal
+*** Dual 21" Monitors
+*** Vim
+*** Git & Github
+*** Ubuntu servers (in house & on aws)
+** Culture
+*** Self Organizing
+*** Pair Programming
+*** Test Driven Development
+*** Daily Stand-up meetings
+*** Weekly Stand-up planning meetings
+*** Daily Production deploys
+*** Dead Tree Library
+*** Open Source Contribution
+*** Weekly Code Katas
+*** Automation
+*** User Group Hosting / Speaking
+*** Conference Attendance / Speaking
