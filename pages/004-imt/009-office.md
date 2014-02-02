@@ -4,4 +4,4 @@ layout: slide
 
 ### IMT - Office
 
-![Office](/assets/images/one.jpg)
+![Office](/assets/images/two.jpg)

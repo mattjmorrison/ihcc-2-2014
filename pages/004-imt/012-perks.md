@@ -20,3 +20,5 @@ layout: slide
 * TDD
 * Automation
 * Pair Programming
+* Benefits
+* Pay

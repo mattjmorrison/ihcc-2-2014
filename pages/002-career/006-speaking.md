@@ -2,14 +2,11 @@
 layout: slide
 ---
 
-## Local User Groups
+# Speaking
 
-* Agile Iowa
 * Central Iowa Java Users Group
-* Central Iowa Linux Users Group
 * Des Moines JavaScript
-* Des Moines Web Geeks
 * Iowa .NET User Group
 * Iowa Python User Group
 * Iowa Ruby Brigade
-* Iowa Scala Enthusiasts
+* Iowa Code Camp

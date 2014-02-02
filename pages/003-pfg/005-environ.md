@@ -2,10 +2,10 @@
 layout: slide
 ---
 
-### PFG - Development Environment
+## PFG - Development Environment
 
 * Operating System
-  * Windows XP
+  * Windows 2000 / XP
 * Editors
   * Eclipse / RAD
   * Visual Studio 6

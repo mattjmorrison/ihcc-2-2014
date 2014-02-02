@@ -2,7 +2,7 @@
 layout: slide
 ---
 
-### PFG - Other Perks
+# PFG - Other Perks
 
 * Attached Parking
 * Flexible work schedule
@@ -11,3 +11,5 @@ layout: slide
 * High Street Retreat
 * Gyms
 * Fitness Classes
+* Benefits
+* Pay

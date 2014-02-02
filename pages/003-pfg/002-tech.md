@@ -2,13 +2,13 @@
 layout: slide
 ---
 
-### PFG - Technologies
+## PFG - Technologies
 
 * Cobol
 * JCL
 * CICS
 * VB 6
-* Java (1.4)
+* Java
 * XML
 * XSLT
 * HTML

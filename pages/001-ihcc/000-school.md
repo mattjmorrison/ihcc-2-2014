@@ -2,4 +2,4 @@
 layout: slide
 ---
 
-# Career
+# School

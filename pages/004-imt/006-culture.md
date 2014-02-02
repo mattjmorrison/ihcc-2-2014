@@ -9,6 +9,8 @@ layout: slide
 * Test Driven Development
 * Daily Stand Ups
 * Development Pit
+* White Boards
+* Retros
 * Continuous change and improvement
 * Automated everything
   * Server Configuration

@@ -4,5 +4,5 @@ layout: slide
 
 ### IMT - Office
 
-
-![Office](/assets/images/two.jpg)
+* 1 Building in West Des Moines
+  * Parking in front of building

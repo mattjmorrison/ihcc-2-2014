@@ -2,7 +2,7 @@
 layout: slide
 ---
 
-### PFG - Typical Workday
+# PFG - Typical Workday
 
 * Lots of Emails, Phone calls, and Meetings
 * Completing formal documentation and getting approval for:
