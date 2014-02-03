@@ -19,3 +19,4 @@ layout: slide
 * Do challenge sites
   * hackerrank.com
   * wablab.com
+* Podcasts (RubyRouges, JS Jabber, Giant Robots, The Changelog)
