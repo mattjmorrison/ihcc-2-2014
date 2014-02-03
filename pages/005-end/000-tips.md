@@ -16,3 +16,6 @@ layout: slide
 * Interview a lot
 * Keep your resume up-to-date
 * Put EVERYTHING in source control
+* Do challenge sites
+  * hackerrank.com
+  * wablab.com
