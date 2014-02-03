@@ -4,4 +4,4 @@ layout: slide
 
 # This happened
 
-![Me](/assets/images/outstanding.jpg)
+![Me](assets/images/outstanding.jpg)
